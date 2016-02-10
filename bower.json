@@ -1,0 +1,16 @@
+{
+  "name": "18b-PropertyManager-Frontend",
+  "homepage": "https://github.com/Nbhaskell/18b-PropertyManager-Frontend",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

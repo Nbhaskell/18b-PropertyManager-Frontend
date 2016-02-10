@@ -1,0 +1,16 @@
+﻿<form name="propertyDetailForm">
+    <div class="form-group">
+        <label>Property Type</label>
+        <input type="text" class="form-control" ng-model="property.PropertyType" />
+    </div>
+</form>
+
+<div class="well clearfix">
+    <button class="btn btn-success pull-right" ng-click="saveProperty()">
+        Save
+    </button>
+</div>
+
+<pre>
+{{property | json}}
+</pre>
